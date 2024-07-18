@@ -1,6 +1,5 @@
 #include <iostream>
 #include <ctime>
-#include <cctype> // for tolower function
 
 using namespace std;
 
