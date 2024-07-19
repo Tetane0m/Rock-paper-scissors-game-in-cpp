@@ -42,7 +42,7 @@ int main() {
         cout << "Again?\n1 _ yes\n2 _ no\n---> ";
         cin >> again;
     } while (again == 1);
-    cout << "Game over!!\nThank you for playing.\nProject link: ";
+    cout << "Game over!!\nThank you for playing.\nProject link: https://github.com/Tetane0m/Rock-paper-scissors-game-in-cpp.git";
 }
 
 // Function to display the chosen option
